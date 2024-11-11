@@ -1,0 +1,543 @@
+{
+    "ATM_Raquel ATM_Raquel_FREE ETL:/calculated/ATM_Raquel/Montana1/ATM_Raquel_FREE/histories/Clima/CondExt/GradosDia_FREE": {
+        "equipRef": {
+            "fid": "p:{}:r:0257faf8-2718-3d7c-a79e-8bcb074828a2",
+            "repr": "Montana1 Clima Clima CondExt .."
+        },
+        "fid": "p:{}:r:a4706781-872c-3a36-a9eb-0a8860d32bc8",
+        "id": "ATM_Raquel ATM_Raquel_FREE ETL:/calculated/ATM_Raquel/Montana1/ATM_Raquel_FREE/histories/Clima/CondExt/GradosDia_FREE",
+        "instalZoneRef": {
+            "fid": "p:{}:r:7c056e0b-21fa-36d2-a401-acce42ff8779",
+            "repr": "Montana1 Clima Clima"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:7022b10f-eb57-310f-87f5-fbc8590b4ba9",
+            "repr": "Montana1 Clima"
+        },
+        "markers": [
+            "point",
+            "sensor",
+            "virtual"
+        ],
+        "navName": "GradosDia_FREE",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:8a1dd4c2-e002-3887-b02c-7ac783edc50e",
+            "repr": "Montana1 Clima Clima CondExt"
+        }
+    },
+    "ATM_Raquel ATM_Raquel_FREE ETL:/calculated/ATM_Raquel/Montana7/ATM_Raquel_FREE/histories/Clima/CondExt/GradosDia_FREE": {
+        "equipRef": {
+            "fid": "p:{}:r:6dfcb7a4-497c-3bca-bfa9-635be9126d71",
+            "repr": "Montana7 Clima Clima CondExt .."
+        },
+        "fid": "p:{}:r:199b4e96-4a98-3b88-b470-0a76db45374f",
+        "id": "ATM_Raquel ATM_Raquel_FREE ETL:/calculated/ATM_Raquel/Montana7/ATM_Raquel_FREE/histories/Clima/CondExt/GradosDia_FREE",
+        "instalZoneRef": {
+            "fid": "p:{}:r:7f09ad29-94a1-3e00-a300-8939a24d3487",
+            "repr": "Montana7 Clima Clima"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:b76e8520-8d4f-3e8e-bf43-12f67f580b86",
+            "repr": "Montana7 Clima"
+        },
+        "markers": [
+            "point",
+            "sensor",
+            "virtual"
+        ],
+        "navName": "GradosDia_FREE",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:84e86fb3-58d3-3f34-a3cd-673711847e0e",
+            "repr": "Montana7 Clima Clima CondExt"
+        }
+    },
+    "ATM_Raquel ATM_Raquel_FREE ETL:/calculated/ATM_Raquel/Montana7/ATM_Raquel_FREE/histories/Elec/AcometElec/PM5100E7/OcupEner_FREE": {
+        "equipRef": {
+            "fid": "p:{}:r:e499146e-889b-38d9-b86c-aaedd219304f",
+            "repr": "Montana7 Elec Elec AcometElec PM5100E7"
+        },
+        "fid": "p:{}:r:3b9bd22a-91c0-31c7-bf77-ca8417e2a8f1",
+        "id": "ATM_Raquel ATM_Raquel_FREE ETL:/calculated/ATM_Raquel/Montana7/ATM_Raquel_FREE/histories/Elec/AcometElec/PM5100E7/OcupEner_FREE",
+        "instalZoneRef": {
+            "fid": "p:{}:r:29e87e33-951a-3d28-a439-d7792aa8ee88",
+            "repr": "Montana7 Elec Elec"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3b796b7b-d637-3c5e-8142-6d4522f44f8d",
+            "repr": "Montana7 Elec"
+        },
+        "markers": [
+            "point",
+            "run",
+            "swp",
+            "virtual"
+        ],
+        "navName": "OcupEner_FREE",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:63f2f006-d5f8-328f-a5d7-77cff7fbb638",
+            "repr": "Montana7 Elec Elec AcometElec"
+        }
+    },
+    "ATM_Raquel Oreilly_Jace /Drivers/Modbus/PM5100_E7_RED/points/Energia$20Activa": {
+        "equipRef": {
+            "fid": "p:{}:r:e499146e-889b-38d9-b86c-aaedd219304f",
+            "repr": "Montana7 Elec Elec AcometElec PM5100E7"
+        },
+        "fid": "p:{}:r:08a94ba3-dd4b-3d03-9878-8dfb085bebec",
+        "id": "ATM_Raquel Oreilly_Jace /Drivers/Modbus/PM5100_E7_RED/points/Energia$20Activa",
+        "instalZoneRef": {
+            "fid": "p:{}:r:29e87e33-951a-3d28-a439-d7792aa8ee88",
+            "repr": "Montana7 Elec Elec"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3b796b7b-d637-3c5e-8142-6d4522f44f8d",
+            "repr": "Montana7 Elec"
+        },
+        "markers": [
+            "kwh",
+            "point",
+            "sensor"
+        ],
+        "navName": "EnerAct",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        },
+         "tipoEquipoRef": {
+            "fid": "p:{}:r:63f2f006-d5f8-328f-a5d7-77cff7fbb638",
+            "repr": "Montana7 Elec Elec AcometElec"
+        }
+     },
+    "ATM_Raquel Oreilly_Jace2 /Drivers/LonNetwork/Produccion/points/Solar/Bombas17/TempEntPrimIntACS": {
+        "equipRef": {
+            "fid": "p:{}:r:0d01ddde-b0a8-3d26-b928-af02f1f6e169",
+            "repr": "Montana1 ProdSolar ProdSolar CtoPrimSolar Prod"
+        },
+        "fid": "p:{}:r:ea5ab5fc-5665-3c95-939a-e198d3d0f29b",
+        "id": "ATM_Raquel Oreilly_Jace2 /Drivers/LonNetwork/Produccion/points/Solar/Bombas17/TempEntPrimIntACS",
+        "instalZoneRef": {
+            "fid": "p:{}:r:6e3111d8-6c91-3982-99c0-d7779bd41edb",
+            "repr": "Montana1 ProdSolar ProdSolar"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3e335c59-ba63-3c31-95d0-0fd2dec75d31",
+            "repr": "Montana1 ProdSolar"
+        },
+        "markers": [
+            "point",
+            "sensor",
+            "temp"
+        ],
+        "navName": "Bombas 17 Temp",
+        "secEquipRef": {
+            "fid": "p:{}:r:13662825-670d-3bc6-b376-97f05ffa1a4b",
+            "repr": "Montana1 ProdSolar ProdSolar CtoPrimSolar Prod Bombas 17"
+        },
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        },
+         "tipoEquipoRef": {
+            "fid": "p:{}:r:9c8d11e3-911f-3436-a946-a444c1a88510",
+            "repr": "Montana1 ProdSolar ProdSolar CtoPrimSolar"
+        }
+    },
+    "ATM_Raquel Oreilly_Jace__RAW /Drivers/Modbus/PM5100_E7_RED/points/Energia$20Activa": {
+        "equipRef": {
+            "fid": "p:{}:r:e499146e-889b-38d9-b86c-aaedd219304f",
+            "repr": "Montana7 Elec Elec AcometElec PM5100E7"
+        },
+        "fid": "p:{}:r:1d7b7a69-2cff-33bd-a993-ef7c413f9f04",
+        "id": "ATM_Raquel Oreilly_Jace__RAW /Drivers/Modbus/PM5100_E7_RED/points/Energia$20Activa",
+        "instalZoneRef": {
+            "fid": "p:{}:r:29e87e33-951a-3d28-a439-d7792aa8ee88",
+            "repr": "Montana7 Elec Elec"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3b796b7b-d637-3c5e-8142-6d4522f44f8d",
+            "repr": "Montana7 Elec"
+        },
+        "markers": [
+            "kwh",
+            "point",
+            "raw",
+            "sensor"
+        ],
+        "navName": "EnerAct__RAW",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:63f2f006-d5f8-328f-a5d7-77cff7fbb638",
+            "repr": "Montana7 Elec Elec AcometElec"
+        }
+    },
+    "Montana1": {
+        "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+        "id": "Montana1",
+        "markers": [
+            "site"
+        ],
+        "navName": "Montana1"
+     },
+    "Montana1 Clima": {
+        "fid": "p:{}:r:7022b10f-eb57-310f-87f5-fbc8590b4ba9",
+        "id": "Montana1 Clima",
+        "markers": [
+            "clima",
+            "hvac",
+            "instalacion",
+            "system"
+        ],
+        "navName": "Clima",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        }
+    },
+    "Montana1 Clima Clima": {
+        "fid": "p:{}:r:7c056e0b-21fa-36d2-a401-acce42ff8779",
+        "id": "Montana1 Clima Clima",
+        "instalacionRef": {
+            "fid": "p:{}:r:7022b10f-eb57-310f-87f5-fbc8590b4ba9",
+            "repr": "Montana1 Clima"
+        },
+        "markers": [
+            "instalZone"
+        ],
+        "navName": "Clima",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        }
+    },
+    "Montana1 Clima Clima CondExt": {
+        "fid": "p:{}:r:8a1dd4c2-e002-3887-b02c-7ac783edc50e",
+        "id": "Montana1 Clima Clima CondExt",
+        "instalZoneRef": {
+            "fid": "p:{}:r:7c056e0b-21fa-36d2-a401-acce42ff8779",
+            "repr": "Montana1 Clima Clima"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:7022b10f-eb57-310f-87f5-fbc8590b4ba9",
+            "repr": "Montana1 Clima"
+        },
+        "markers": [
+            "tipoEquipo"
+        ],
+        "navName": "CondExt",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        }
+    },
+    "Montana1 Clima Clima CondExt ..": {
+        "fid": "p:{}:r:0257faf8-2718-3d7c-a79e-8bcb074828a2",
+        "id": "Montana1 Clima Clima CondExt ..",
+        "instalZoneRef": {
+            "fid": "p:{}:r:7c056e0b-21fa-36d2-a401-acce42ff8779",
+            "repr": "Montana1 Clima Clima"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:7022b10f-eb57-310f-87f5-fbc8590b4ba9",
+            "repr": "Montana1 Clima"
+        },
+        "markers": [
+            "equip",
+            "outside",
+            "zone"
+        ],
+        "navName": "..",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:8a1dd4c2-e002-3887-b02c-7ac783edc50e",
+            "repr": "Montana1 Clima Clima CondExt"
+        }
+    },
+    "Montana1 ProdSolar": {
+        "fid": "p:{}:r:3e335c59-ba63-3c31-95d0-0fd2dec75d31",
+        "id": "Montana1 ProdSolar",
+        "markers": [
+            "instalacion",
+            "prodsolar",
+            "solar"
+        ],
+        "navName": "ProdSolar",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        }
+    },
+    "Montana1 ProdSolar ProdSolar": {
+        "fid": "p:{}:r:6e3111d8-6c91-3982-99c0-d7779bd41edb",
+        "id": "Montana1 ProdSolar ProdSolar",
+        "instalacionRef": {
+            "fid": "p:{}:r:3e335c59-ba63-3c31-95d0-0fd2dec75d31",
+            "repr": "Montana1 ProdSolar"
+        },
+        "markers": [
+            "instalZone"
+        ],
+        "navName": "ProdSolar",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        }
+    },
+    "Montana1 ProdSolar ProdSolar CtoPrimSolar": {
+        "fid": "p:{}:r:9c8d11e3-911f-3436-a946-a444c1a88510",
+        "id": "Montana1 ProdSolar ProdSolar CtoPrimSolar",
+        "instalZoneRef": {
+            "fid": "p:{}:r:6e3111d8-6c91-3982-99c0-d7779bd41edb",
+            "repr": "Montana1 ProdSolar ProdSolar"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3e335c59-ba63-3c31-95d0-0fd2dec75d31",
+            "repr": "Montana1 ProdSolar"
+        },
+        "markers": [
+            "tipoEquipo"
+        ],
+        "navName": "CtoPrimSolar",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        }
+    },
+    "Montana1 ProdSolar ProdSolar CtoPrimSolar Prod": {
+        "fid": "p:{}:r:0d01ddde-b0a8-3d26-b928-af02f1f6e169",
+        "id": "Montana1 ProdSolar ProdSolar CtoPrimSolar Prod",
+        "instalZoneRef": {
+            "fid": "p:{}:r:6e3111d8-6c91-3982-99c0-d7779bd41edb",
+            "repr": "Montana1 ProdSolar ProdSolar"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3e335c59-ba63-3c31-95d0-0fd2dec75d31",
+            "repr": "Montana1 ProdSolar"
+        },
+        "markers": [
+            "equip",
+            "solar"
+        ],
+        "navName": "Prod",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:9c8d11e3-911f-3436-a946-a444c1a88510",
+            "repr": "Montana1 ProdSolar ProdSolar CtoPrimSolar"
+        }
+    },
+    "Montana1 ProdSolar ProdSolar CtoPrimSolar Prod Bombas 17": {
+        "equipRef": {
+            "fid": "p:{}:r:0d01ddde-b0a8-3d26-b928-af02f1f6e169",
+            "repr": "Montana1 ProdSolar ProdSolar CtoPrimSolar Prod"
+        },
+        "fid": "p:{}:r:13662825-670d-3bc6-b376-97f05ffa1a4b",
+        "id": "Montana1 ProdSolar ProdSolar CtoPrimSolar Prod Bombas 17",
+        "instalZoneRef": {
+            "fid": "p:{}:r:6e3111d8-6c91-3982-99c0-d7779bd41edb",
+            "repr": "Montana1 ProdSolar ProdSolar"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3e335c59-ba63-3c31-95d0-0fd2dec75d31",
+            "repr": "Montana1 ProdSolar"
+        },
+        "markers": [
+            "bombas",
+            "group",
+            "pump",
+            "secEquip"
+        ],
+         "navName": "Bombas 17",
+        "siteRef": {
+            "fid": "p:{}:r:a0867d88-7dc9-31e4-b3ac-68c991180383",
+            "repr": "Montana1"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:9c8d11e3-911f-3436-a946-a444c1a88510",
+            "repr": "Montana1 ProdSolar ProdSolar CtoPrimSolar"
+        }
+    },
+    "Montana7": {
+        "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+        "id": "Montana7",
+        "markers": [
+            "site"
+        ],
+        "navName": "Montana7"
+    },
+    "Montana7 Clima": {
+        "fid": "p:{}:r:b76e8520-8d4f-3e8e-bf43-12f67f580b86",
+        "id": "Montana7 Clima",
+        "markers": [
+            "clima",
+            "hvac",
+            "instalacion",
+            "system"
+        ],
+        "navName": "Clima",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        }
+    },
+    "Montana7 Clima Clima": {
+        "fid": "p:{}:r:7f09ad29-94a1-3e00-a300-8939a24d3487",
+        "id": "Montana7 Clima Clima",
+        "instalacionRef": {
+            "fid": "p:{}:r:b76e8520-8d4f-3e8e-bf43-12f67f580b86",
+            "repr": "Montana7 Clima"
+        },
+        "markers": [
+            "instalZone"
+        ],
+        "navName": "Clima",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        }
+    },
+    "Montana7 Clima Clima CondExt": {
+        "fid": "p:{}:r:84e86fb3-58d3-3f34-a3cd-673711847e0e",
+        "id": "Montana7 Clima Clima CondExt",
+        "instalZoneRef": {
+            "fid": "p:{}:r:7f09ad29-94a1-3e00-a300-8939a24d3487",
+            "repr": "Montana7 Clima Clima"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:b76e8520-8d4f-3e8e-bf43-12f67f580b86",
+            "repr": "Montana7 Clima"
+        },
+        "markers": [
+            "tipoEquipo"
+        ],
+        "navName": "CondExt",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        }
+    },
+    "Montana7 Clima Clima CondExt ..": {
+        "fid": "p:{}:r:6dfcb7a4-497c-3bca-bfa9-635be9126d71",
+        "id": "Montana7 Clima Clima CondExt ..",
+        "instalZoneRef": {
+            "fid": "p:{}:r:7f09ad29-94a1-3e00-a300-8939a24d3487",
+            "repr": "Montana7 Clima Clima"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:b76e8520-8d4f-3e8e-bf43-12f67f580b86",
+            "repr": "Montana7 Clima"
+        },
+        "markers": [
+            "air",
+            "equip",
+            "outside",
+            "zone"
+        ],
+        "navName": "..",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:84e86fb3-58d3-3f34-a3cd-673711847e0e",
+            "repr": "Montana7 Clima Clima CondExt"
+        }
+    },
+    "Montana7 Elec": {
+        "fid": "p:{}:r:3b796b7b-d637-3c5e-8142-6d4522f44f8d",
+        "id": "Montana7 Elec",
+        "markers": [
+            "elec",
+            "instalacion",
+            "lowVoltage",
+            "system"
+        ],
+        "navName": "Elec",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        }
+    },
+    "Montana7 Elec Elec": {
+        "fid": "p:{}:r:29e87e33-951a-3d28-a439-d7792aa8ee88",
+        "id": "Montana7 Elec Elec",
+        "instalacionRef": {
+            "fid": "p:{}:r:3b796b7b-d637-3c5e-8142-6d4522f44f8d",
+            "repr": "Montana7 Elec"
+        },
+        "markers": [
+            "instalZone"
+        ],
+        "navName": "Elec",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        }
+    },
+    "Montana7 Elec Elec AcometElec": {
+        "fid": "p:{}:r:63f2f006-d5f8-328f-a5d7-77cff7fbb638",
+        "id": "Montana7 Elec Elec AcometElec",
+        "instalZoneRef": {
+            "fid": "p:{}:r:29e87e33-951a-3d28-a439-d7792aa8ee88",
+            "repr": "Montana7 Elec Elec"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3b796b7b-d637-3c5e-8142-6d4522f44f8d",
+            "repr": "Montana7 Elec"
+        },
+        "markers": [
+            "tipoEquipo"
+        ],
+        "navName": "AcometElec",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        }
+    },
+    "Montana7 Elec Elec AcometElec PM5100E7": {
+        "fid": "p:{}:r:e499146e-889b-38d9-b86c-aaedd219304f",
+        "id": "Montana7 Elec Elec AcometElec PM5100E7",
+        "instalZoneRef": {
+            "fid": "p:{}:r:29e87e33-951a-3d28-a439-d7792aa8ee88",
+            "repr": "Montana7 Elec Elec"
+        },
+        "instalacionRef": {
+            "fid": "p:{}:r:3b796b7b-d637-3c5e-8142-6d4522f44f8d",
+            "repr": "Montana7 Elec"
+        },
+        "markers": [
+            "acometelec",
+            "elec",
+            "equip",
+            "main"
+        ],
+        "navName": "PM5100E7",
+        "siteRef": {
+            "fid": "p:{}:r:6afaf1a2-538a-3fa6-aaba-9ae2cb9f90d4",
+            "repr": "Montana7"
+        },
+        "tipoEquipoRef": {
+            "fid": "p:{}:r:63f2f006-d5f8-328f-a5d7-77cff7fbb638",
+            "repr": "Montana7 Elec Elec AcometElec"
+        }
+    }
+}
