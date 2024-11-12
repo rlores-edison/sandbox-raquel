@@ -17,4 +17,4 @@ This project enhances graph visualization:
 This page serves as the main App of the project
 
 ## Data
-- Uses different a small JSON file
+- Uses a small JSON file
